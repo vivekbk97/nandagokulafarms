@@ -307,6 +307,6 @@
 /* Media query for mobile view */
 @media (max-width: 767px) {
     .navbar-brand h1 {
-        font-size: 2rem; /* Adjust to fit the mobile view */
+        font-size: 1.5rem; /* Adjust to fit the mobile view */
     }
 }
