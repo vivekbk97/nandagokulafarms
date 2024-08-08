@@ -298,3 +298,15 @@
     height: 180px;
     object-fit: cover; /* This will ensure the image covers the container without distortion */
 }
+
+/* Default styling for h1 */
+.navbar-brand h1 {
+    font-size: 2rem; /* Adjust as needed for larger screens */
+}
+
+/* Media query for mobile view */
+@media (max-width: 767px) {
+    .navbar-brand h1 {
+        font-size: 2rem; /* Adjust to fit the mobile view */
+    }
+}
