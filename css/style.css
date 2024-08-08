@@ -292,3 +292,9 @@
         margin-top: 90px !important;
     }
 }
+
+.img-square {
+    width: 180px;
+    height: 180px;
+    object-fit: cover; /* This will ensure the image covers the container without distortion */
+}
